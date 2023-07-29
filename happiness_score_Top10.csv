@@ -1,0 +1,11 @@
+﻿Score2017,Rank,Country,RegionalIndicator,Score,GDP,SocialSupport,HealthyLifeExpectancy,Freedom,Generosity,Corruption,Ladder score in Dystopia,Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption,Dystopia + residual
+7.469,1,Finland,Western Europe,7.842,10.775,0.954,72,0.949,-0.098,0.186,2.43,1.446,1.106,0.741,0.691,0.124,0.481,3.253
+7.522,2,Denmark,Western Europe,7.62,10.933,0.954,72.7,0.946,0.03,0.179,2.43,1.502,1.108,0.763,0.686,0.208,0.485,2.868
+7.494,3,Switzerland,Western Europe,7.571,11.117,0.942,74.4,0.919,0.025,0.292,2.43,1.566,1.079,0.816,0.653,0.204,0.413,2.839
+7.504,4,Iceland,Western Europe,7.554,10.878,0.983,73,0.955,0.16,0.673,2.43,1.482,1.172,0.772,0.698,0.293,0.17,2.967
+7.377,5,Netherlands,Western Europe,7.464,10.932,0.942,72.4,0.913,0.175,0.338,2.43,1.501,1.079,0.753,0.647,0.302,0.384,2.798
+7.537,6,Norway,Western Europe,7.392,11.053,0.954,73.3,0.96,0.093,0.27,2.43,1.543,1.108,0.782,0.703,0.249,0.427,2.58
+7.284,7,Sweden,Western Europe,7.363,10.867,0.934,72.7,0.945,0.086,0.237,2.43,1.478,1.062,0.763,0.685,0.244,0.448,2.683
+6.863,8,Luxembourg,Western Europe,7.324,11.647,0.908,72.6,0.907,-0.034,0.386,2.43,1.751,1.003,0.76,0.639,0.166,0.353,2.653
+7.314,9,NewZealand,North America and ANZ,7.277,10.643,0.948,73.4,0.929,0.134,0.242,2.43,1.4,1.094,0.785,0.665,0.276,0.445,2.612
+7.284,10,Austria,Western Europe,7.268,10.906,0.934,73.3,0.908,0.042,0.481,2.43,1.492,1.062,0.782,0.64,0.215,0.292,2.784
